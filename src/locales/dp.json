@@ -1,0 +1,52 @@
+{
+  "shipments": [
+    {
+      "id": "1",
+      "title": "شحنة إلكترونيات",
+      "description": "شحنة لابتوب وملحقاته",
+      "image": "https://i.rtings.com/assets/pages/8qL8CfPV/best-windows-laptop-medium.jpg?format=auto"
+    },
+    {
+      "id": "2",
+      "title": "شحنة ملابس",
+      "description": "شحنة ملابس شتوية للأطفال والكبار",
+      "image": "https://pivazh.com/wp-content/uploads/2023/12/Packing_clothes_for_shipping-1300x680-1.png"
+    },
+    {
+      "id": "3",
+      "title": "شحنة كتب",
+      "description": "شحنة كتب تعليمية وأدبية للطلاب",
+      "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400"
+    },
+    {
+      "id": "4",
+      "title": "شحنة أغذية",
+      "description": "شحنة معلبات وأغذية محفوظة مع مراعاة التخزين",
+      "image": "https://lh3.googleusercontent.com/VZSjEQk3X6qkuVGKXDQ5iuoc0RVdgMFtn2VezzrYgfcL5B4cxlrcEze8v8V11FegC4AgoBZh9FlpmGHGPOs3irlb_pFdfXDXaZYhk_ZS0Vd8hgcdqDvF0Ad2C7GiyBBK2W5A0faI"
+    },
+    {
+      "id": "5",
+      "title": "شحنة أدوات منزلية",
+      "description": "شحنة أواني مطبخ ومواد منزلية متنوعة",
+      "image": "https://invest.midanalmal.com/wp-content/uploads/2023/09/%D9%85%D8%B3%D8%AA%D9%88%D8%B1%D8%AF-%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%85%D9%86%D8%B2%D9%84%D9%8A%D8%A9-%D8%AC%D9%85%D9%84%D8%A93-630x300.jpg"
+    },
+    {
+      "id": "6",
+      "title": "شحنة أحذية",
+      "description": "شحنة أحذية رجالية ونسائية",
+      "image": "https://www.careofcarl.com/bilder/artiklar/zoom/26635111r_3.jpg?m=1710510178"
+    },
+    {
+      "id": "7",
+      "title": "شحنة مستلزمات رياضية",
+      "description": "شحنة كرات، أدوات رياضية وملابس رياضية",
+      "image": "https://cdn.salla.sa/WlAjDX/56c45583-86dd-483f-b805-47b52eec7bcb-673.66211962225x1000-ulLjeQ2H7bovWTn7xgUq6Wwooxt8rF00YH1gWfbX.jpg"
+    },
+    {
+      "id": "8",
+      "title": "شحنة هواتف ذكية",
+      "description": "شحنة هواتف حديثة مع اكسسواراتها",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400"
+    }
+  ]
+}
