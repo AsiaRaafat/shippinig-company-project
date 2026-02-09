@@ -149,7 +149,7 @@ export default function Home() {
             <div className="col-lg-3 col-md-3  col-sm-6 data1">
               <div>
                 <img
-                  src="src/assets/employee (4).png"
+                  src="/images/employee (4).png"
                   style={{ width: "100px", height: "100px" }}
                 />
               </div>
@@ -159,7 +159,7 @@ export default function Home() {
             <div className="col-lg-3 col-md-3 col-6 data1">
               <div>
                 <img
-                  src="src/assets/1solutions/ship (1).png"
+                  src="/images/ship (1).png"
                   style={{ width: "90px", height: "90px" }}
                 />
               </div>
@@ -169,7 +169,7 @@ export default function Home() {
             <div className="col-lg-3 col-md-3 col-6 data1">
               <div>
                 <img
-                  src="src/assets/shipping.png"
+                  src="/images/shipping.png"
                   style={{ width: "90px", height: "90px" }}
                 />
               </div>
@@ -179,7 +179,7 @@ export default function Home() {
             <div className="col-lg-3 col-md-3 col-6 data1">
               <div>
                 <img
-                  src="src/assets/office-building.png"
+                  src="/images/office-building.png"
                   style={{ width: "90px", height: "90px" }}
                 />
               </div>
