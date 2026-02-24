@@ -11,7 +11,7 @@ const router = createBrowserRouter([
     element: <Layout />,
     children: [
       {
-        path: "/",
+        path: "/:id",
         element: <Home />,
       },
       {
@@ -26,14 +26,14 @@ const router = createBrowserRouter([
         path: "/swiper3/:id",
         element: <SingleSevice/>,
       },
-      {
-        path: "/news/:id",
-        element: <SingleNew/>,
-      },
-      {
-        path: "/services/:id",
-        element: <SingleSevice/>,
-      },
+      // {
+      //   path: "/:id",
+      //   element: <SingleNew/>,
+      // },
+      // {
+      //   path: "/:id",
+      //   element: <SingleSevice/>,
+      // },
       {
         path: "/swiper1",
         element: <MySwiper/>,
