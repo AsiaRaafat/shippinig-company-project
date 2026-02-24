@@ -204,6 +204,7 @@ export default function MySwiper() {
                   style={{position:"absolute", bottom:"5px", left:"5px", backgroundColor:"transparent", border:"none", fontSize:"11px"}}
                 >
                   <a
+                    className="cardlink"
                     style={{textDecorationLine:"none", color:"black"}}
                     href={`swiper3/${item.id}`}
                     aria-description="product details"

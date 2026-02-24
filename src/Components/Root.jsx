@@ -47,14 +47,14 @@ const router = createBrowserRouter([
         path: "swiper3",
         element: <MySwiper/>,
       },
-       {
-        path: "news/:id",
-        element: <SingleNew/>,
-      },
-      {
-        path: "services/:id",
-        element: <SingleSevice/>,
-      },
+      //  {
+      //   path: "news/:id",
+      //   element: <SingleNew/>,
+      // },
+      // {
+      //   path: "services/:id",
+      //   element: <SingleSevice/>,
+      // },
     ],
   },
 ],
