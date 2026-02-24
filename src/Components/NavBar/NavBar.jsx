@@ -2,7 +2,7 @@ import "./NavBar.scss";
 import Container from "react-bootstrap/Container";
 import Navbar from "react-bootstrap/Navbar";
 import { NavLink } from "react-router-dom";
-import logo from '/public/images/logo.png'
+import logo from '/images/logo.png'
 import { useState,useEffect } from "react";
 import { FiMapPin } from "react-icons/fi";
 import { TfiWorld } from "react-icons/tfi";
