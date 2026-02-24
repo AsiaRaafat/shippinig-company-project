@@ -149,7 +149,7 @@ export default function MySwiper() {
   };
 
   useEffect(() => {
-    axios.get(`http://localhost:5000/shipments`)
+    axios.get('https://fakestoreapi.com/products')
       .then((res) => setItems(res.data))
       .catch((err) => console.error("Error fetching products:", err));
   }, []);
