@@ -6,6 +6,7 @@ import MySwiper from "./Swiper 3/MySwiper";
 import MySwiper4 from "./Swiper4/MySwiper4";
 import SingleSevice from "../Pages/Servicepage/SingleSevice";
 
+
 const router = createBrowserRouter([
   {
     path: "/",
@@ -57,10 +58,6 @@ const router = createBrowserRouter([
       // },
     ],
   },
-],
-   {
-    basename: "/shippinig-company-project",
-  }
-);
+]);
 
 export default router;
