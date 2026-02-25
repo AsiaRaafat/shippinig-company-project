@@ -184,7 +184,7 @@ export default function MySwiper4() {
         <Slider {...settings}>
           {news.map((element) => (
             <div key={element.id}>
-              <a className="cardlink" href={`swiper4/${element.id}`} aria-description="product details">
+              <a className="cardlink" href={`news/${element.id}`} aria-description="product details">
                 <Card
                   className="text-white"
                   style={{

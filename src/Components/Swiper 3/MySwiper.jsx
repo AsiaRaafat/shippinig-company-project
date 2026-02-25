@@ -206,7 +206,7 @@ export default function MySwiper() {
                   <a
                     className="cardlink"
                     style={{textDecorationLine:"none", color:"black"}}
-                    href={`swiper3/${item.id}`}
+                    href={`services/${item.id}`}
                     aria-description="product details"
                   >
                     READ MORE

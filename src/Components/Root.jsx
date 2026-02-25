@@ -20,19 +20,19 @@ const router = createBrowserRouter([
         element: <SingleNew/>,
       },
       {
-        path: "swiper4/:id",
+        path: "news/:id",
         element: <SingleNew/>,
       },
       {
-        path: "swiper3/:id",
+        path: "services/:id",
         element: <SingleSevice/>,
       },
       {
-        path: "news",
+        path: "new",
         element: <SingleNew />,
       },
       {
-        path: "services",
+        path: "service",
         element: <SingleSevice />,
       },
       {
@@ -40,11 +40,11 @@ const router = createBrowserRouter([
         element: <MySwiper/>,
       },
       {
-        path: "swiper4",
+        path: "news",
         element: <MySwiper4/>,
       },
       {
-        path: "swiper3",
+        path: "services",
         element: <MySwiper/>,
       },
       //  {
